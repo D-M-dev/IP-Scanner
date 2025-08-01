@@ -1,6 +1,4 @@
-"""
-Data models for the application
-"""
+
 from typing import Dict, List
 
 class DeviceInfo:
@@ -28,3 +26,4 @@ class ScanResult:
         self.network_range = network_range
         self.scan_mode = scan_mode
         self.devices = devices
+

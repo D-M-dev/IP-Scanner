@@ -44,6 +44,7 @@ widgets/ advanced_settings.py animated_button.py loading_widget.py network_monit
 
 - Python 3.8+
 - PySide6
+- mayi forgot for smt just install...
 
 ## Package Info
 
@@ -51,3 +52,4 @@ widgets/ advanced_settings.py animated_button.py loading_widget.py network_monit
 # [__init__.py](http://_vscodecontentref_/2)
 __version__ = "0.9.0"
 __author__ = "Jupik-the-dev"
+

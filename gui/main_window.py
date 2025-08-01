@@ -1,7 +1,3 @@
-"""
-Main application window - enhanced for full auto network detection and modern user experience
-"""
-
 import time
 import ipaddress
 import csv
@@ -564,4 +560,5 @@ class EnhancedIPScannerApp(IPScannerApp):
         </ul>
         <p><i>Still in testing so expect bugs!</i></p>
         <p><i>Created with PySide6 and network technology passion!</i></p>
+
         """)

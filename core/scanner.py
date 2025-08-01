@@ -1,6 +1,3 @@
-"""
-Advanced network scanner with fully automatic network range detection (including netmask).
-"""
 
 import socket
 import ipaddress
@@ -246,4 +243,5 @@ class NetworkScanner:
 
     def cancel_scan(self):
         """Cancel ongoing scan in a thread-safe way."""
+
         self.scan_cancelled.set()

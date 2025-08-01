@@ -1,6 +1,8 @@
 # IP Scanner
 
 Advanced desktop application for scanning and analyzing local networks.
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Features
 
@@ -52,5 +54,6 @@ widgets/ advanced_settings.py animated_button.py loading_widget.py network_monit
 # [__init__.py](http://_vscodecontentref_/2)
 __version__ = "0.9.0"-beta full apliocation will be realesed soon :D
 __author__ = "Jupik-the-dev"
+
 
 

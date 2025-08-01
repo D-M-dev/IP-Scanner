@@ -50,6 +50,7 @@ widgets/ advanced_settings.py animated_button.py loading_widget.py network_monit
 
 ```python
 # [__init__.py](http://_vscodecontentref_/2)
-__version__ = "0.9.0"
+__version__ = "0.9.0"-beta full apliocation will be realesed soon :D
 __author__ = "Jupik-the-dev"
+
 

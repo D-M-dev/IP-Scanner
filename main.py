@@ -12,9 +12,9 @@ def main():
     """Main application function"""
     app = QApplication(sys.argv)
     
-    app.setApplicationName("Advanced IP Scanner")
-    app.setApplicationVersion("1.0.0")
-    app.setOrganizationName("IP Scanner Team")
+    app.setApplicationName("IP Scanner")
+    app.setApplicationVersion("0.9.0")
+    app.setOrganizationName("Jupik the dev")
     
     window = EnhancedIPScannerApp()
     window.show()
